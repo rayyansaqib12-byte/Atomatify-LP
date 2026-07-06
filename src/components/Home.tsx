@@ -86,7 +86,7 @@ const testimonials = [
     },
     {
         name: 'Terherah Harris',
-        text: 'The team at Mevan has been fantastic out of the gate and provided the support our agency needed.',
+        text: 'The team at Atomatify has been fantastic out of the gate and provided the support our agency needed.',
     },
 ];
 
