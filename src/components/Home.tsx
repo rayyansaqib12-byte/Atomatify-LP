@@ -117,8 +117,7 @@ export function Home() {
             <header className="fixed left-0 right-0 top-0 z-50 border-b border-white/10 bg-slate-950/80 backdrop-blur-xl">
                 <div className="mx-auto flex h-[72px] max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
                     <div className="flex items-center gap-3">
-                        <img src={mevanLogo} alt="Mevan AI" className="h-10 w-auto"/>
-                        <span className="text-lg font-bold text-white">Mevan AI</span>
+                        <img src={mevanLogo} alt="Mevan AI" className="h-18 w-auto"/>
                     </div>
                     <button
                         onClick={scrollToBooking}
