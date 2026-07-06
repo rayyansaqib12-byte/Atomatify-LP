@@ -14,8 +14,7 @@ export function Footer() {
                 <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr_0.8fr]">
                     <div>
                         <div className="flex items-center gap-3">
-                            <img src={mevanLogo} alt="Mevan AI" className="h-10 w-auto"/>
-                            <span className="text-lg font-bold text-white">Mevan AI</span>
+                            <img src={mevanLogo} alt="Mevan AI" className="h-18 w-auto"/>
                         </div>
                         <p className="mt-4 max-w-md text-sm leading-relaxed text-slate-400">
                             Done-for-you AI chatbot setup, GoHighLevel automation, and VA support for businesses that want faster response times and cleaner follow-up.
