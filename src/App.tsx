@@ -1,4 +1,5 @@
 import {Home} from './components/Home';
+import {Footer} from './components/Footer';
 import {AnimatedBackground} from './components/AnimatedBackground';
 
 export default function App() {
