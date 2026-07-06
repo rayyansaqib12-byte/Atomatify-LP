@@ -409,9 +409,9 @@ export function Home() {
                                     <Mail className="h-5 w-5 text-cyan-300"/>
                                     info@mevan.ai
                                 </a>
-                                <a href="tel:+923165511771" className="flex items-center gap-3 hover:text-cyan-300">
+                                <a href="tel:+923264699918" className="flex items-center gap-3 hover:text-cyan-300">
                                     <Phone className="h-5 w-5 text-cyan-300"/>
-                                    +923165511771
+                                    +923264699918
                                 </a>
                             </div>
                         </div>
