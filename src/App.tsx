@@ -8,6 +8,7 @@ export default function App() {
             <AnimatedBackground/>
             <main className="relative z-10">
                 <Home/>
+                <Footer/>
             </main>
         </div>
     );
