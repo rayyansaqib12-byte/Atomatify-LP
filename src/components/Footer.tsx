@@ -47,16 +47,16 @@ export function Footer() {
                                 <Mail className="h-4 w-4 text-cyan-300"/>
                                 info@mevan.ai
                             </a>
-                            <a href="tel:+923165511771" className="flex items-center gap-2 transition-colors hover:text-cyan-300">
+                            <a href="tel:+923264699918" className="flex items-center gap-2 transition-colors hover:text-cyan-300">
                                 <Phone className="h-4 w-4 text-cyan-300"/>
-                                +923165511771
+                                +923264699918
                             </a>
                         </div>
                     </div>
                 </div>
 
                 <div className="mt-10 flex flex-col gap-3 border-t border-white/10 pt-6 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between">
-                    <p>Copyright {year} Mevan AI. All rights reserved.</p>
+                    <p>Copyright {year} Atomatify. All rights reserved.</p>
                     <p>AI automation, CRM systems, and trained support.</p>
                 </div>
             </div>
